@@ -1,0 +1,3 @@
+haar: success
+mediapipe: success
+manual: success
